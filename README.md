@@ -1,8 +1,5 @@
 ### Hi there Stranger !👋 This is is Mashhood 
-
 <!--
-
-
 - 🔭 I’m currently doing my bachelor's in Computer Science 
 - 🌱 I’m currently learning BlockChain
 - 👯 I’m looking to collaborate on 
